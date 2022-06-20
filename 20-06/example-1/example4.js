@@ -1,5 +1,5 @@
 const childCountofBody = () =>{
-    const childCount=document.childElementCount
+    const childCount=document..childElementCount
     alert(childCount);
 }
 
